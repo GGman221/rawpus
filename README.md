@@ -1,2 +1,1 @@
-# rawpus
-sistem rawat inap dan rawat jalan puskesmas
+Update and rename README.md to READMEjjsjsjsjjdj
