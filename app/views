@@ -1,0 +1,41 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Remix X troll", "Midnight")
+
+local Tab = Window:NewTab("Admin")
+local Admin hub = Tab:NewSection("Admin all map")
+
+Section:NewButton("ButtonText", "Admin all map🗺️🗾", function()
+    	loadstring(game:HttpGet("https://raw.githubusercontent.com/DamThien332/Atlas.dev/refs/heads/main/Loader.lua"))()
+end)
+
+Section:NewButton("ButtonText", "tps street soccer⚽️🥅", function()
+    	loadstring(game:HttpGet("https://raw.githubusercontent.com/DamThien332/Atlas.dev/refs/heads/main/Loader.lua"))()
+end)
+
+Section:NewButton("ButtonText", "Admin Brookhaven 🏡🏠", function()
+    	loadstring(game:HttpGet("https://raw.githubusercontent.com/DamThien332/Atlas.dev/refs/heads/main/Loader.lua"))()
+end)
+
+local Tab = Window:NewTab("Troll 18+ player")
+local fling = Tab:NewSection("🥵🍆")
+Section:NewButton("ButtonText", "ชักผ้า", function()
+    
+	loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))("Spider Script")
+end)
+
+local Tab = Window:NewTab("Admin")
+local Section = Tab:NewSection("Admin hub")
+
+Section:NewButton("ButtonText", "ButtonInfo", function()
+    	loadstring(game:HttpGet("https://raw.githubusercontent.com/DamThien332/Atlas.dev/refs/heads/main/Loader.lua"))()
+end)
+
+Section:NewButton("ButtonText", "Sex gay🥵🥵", function()
+    	loadstring(game:HttpGet("https://pastebin.com/raw/38Jra00x"))()
+end)
+
+local Tab = Window:NewTab("Troll player")
+local Section = Tab:NewSection("Troll player")
+Section:NewButton("ButtonText", "fly me🦸‍♂️🚀💸", function()
+    	loadstring(game:HttpGet('https://pastebin.com/raw/YSL3xKYU'))()
+end)
