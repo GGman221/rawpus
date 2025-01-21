@@ -1,0 +1,14 @@
+local Library loadstring(game: HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window Library.CreateLib("SHARK X HUB", "Synapse")
+—shark wow
+local Tab Window: NewTab("TabName")
+local Section Tab: NewSection("Section Name")
+Section:NewButton("ButtonText", "ButtonInfo", function()
+loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))("Spider Script")
+end)
+—fly number speed
+local Tab Window: NewTab("fly")
+local FlySection Tab: NewSection("FlySection")
+Section: NewButton("ButtonText", "ButtonInfo", function() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+end)
